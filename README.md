@@ -1,0 +1,4 @@
+# RPI 
+
+Índice RPI trimestral.
+
